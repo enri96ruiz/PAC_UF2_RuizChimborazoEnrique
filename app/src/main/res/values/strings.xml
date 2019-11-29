@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DesarrolloUF2_Enrique_Ruiz</string>
+    <string name="photo">Logo for the app</string>
+    <string name="button1">Go to Activity2</string>
+    <string name="button2">Go to Activity3</string>
+    <!-- Activity_2 -->
+    <string name="insert">Insert</string>
+    <string name="consult">consult</string>
+    <!-- Activity_insert -->
+    <string name="EditextTelephone">Enter your telephone</string>
+    <string name="EditextName">Enter your name</string>
+    <string name="BtnSave">save</string>
+    <!-- Activity_consult -->
+    <string name="edname">Name</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_id">id</string>
+    <string name="txt_telephone">Telephone</string>
+    <string name="btnsearch">search</string>
+
+</resources>
